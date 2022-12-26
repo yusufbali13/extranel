@@ -1,0 +1,32 @@
+p{
+    width: 100px;
+    background-color: blue;
+}
+h1{
+    float: left;
+    width: 20px;
+}
+.box{
+    padding: 20px;
+
+}
+.box1{
+    float: left;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.box2{
+    float: left;
+}
+.box3{
+    float: left;
+}
+img{
+    width: 20%;
+}
+.clear{
+    clear: both;
+}
+#kes{
+    clear: both;
+}
